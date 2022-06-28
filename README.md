@@ -1,4 +1,8 @@
-### Hi there 👋
+[![StarlightStingray's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightStingray)](https://github.com/StarlightStingray/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightStingray&layout=compact)](https://github.com/StarlightStingray/github-readme-stats)
+
+### Howdy there~ 👋
 
 <!--
 **StarlightStingray/StarlightStingray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
