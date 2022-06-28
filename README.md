@@ -1,8 +1,12 @@
-[![StarlightStingray's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightStingray)](https://github.com/StarlightStingray/github-readme-stats)
+### Howdy there~ 👋 I'm just a Soma, girl in a coma.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightStingray&layout=compact)](https://github.com/StarlightStingray/github-readme-stats)
+[![StarlightStingray's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarlightStingray&show_icons=true&theme=radical)](https://github.com/StarlightStingray/github-readme-stats)
 
-### Howdy there~ 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarlightStingray&layout=compact&show_icons=true&theme=radical)](https://github.com/StarlightStingray/github-readme-stats)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational??style=plastic&logo=linux&logoColor=blueviolet&color=9cf)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=anztermina&cover_image=true&theme=default&bar_color=e100ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **StarlightStingray/StarlightStingray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
